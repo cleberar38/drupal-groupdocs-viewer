@@ -1,9 +1,13 @@
-drupal-groupdocs-viewer
-=======================
+# GroupDocs Viewer plugin for Drupal (Source code)
+==============================
 
-GroupDocs Viewer plugin for Drupal
+With GroupDocs Viewer plugin for Drupal CMS you can easily view PDF's, Word documents, Excel documents, Powerpoint documents and more without Flash, on any of your Drupal site page.
 
 
-* groupdocs-php.zip - GroupDocs PHP SDK adapted for Drupal module.
-* jquery_file_tree.zip - jQuery File Tree plugin adapted for Drupal module.
-* groupdocs_viewer.zip - GroupDocs module for Drupal.
+###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/Viewer)
+* [Download Viewer plugin package here](https://github.com/groupdocs/drupal-groupdocs-viewer)
+* [Embed DOC, DOCX, PDF Viewer in your Drupal CMS website] (https://drupal.org/project/groupdocs_viewer)
+* [See source code for GroupDocs Viewer plugin for Drupal CMS](https://github.com/groupdocs/drupal-groupdocs-viewer-source)
+
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
