@@ -24,52 +24,56 @@
 class UserInfo {
 
   static $swaggerTypes = array(
-      'signin_count' => 'int',
-      'signedupOn' => 'string',
       'nickname' => 'string',
-      'pkey' => 'string',
-      'lastname' => 'string',
-      'alerts_eanbled' => 'bool',
       'firstname' => 'string',
-      'news_eanbled' => 'bool',
-      'support_eanbled' => 'bool',
-      'photo' => 'array[int]',
-      'support_email' => 'string',
-      'guid' => 'string',
-      'id' => 'float',
+      'lastname' => 'string',
+      'pkey' => 'string',
       'pswd_salt' => 'string',
-      'token' => 'string',
-      'primary_email' => 'string',
-      'roles' => 'array[RoleInfo]',
-      'active' => 'bool',
-      'signedinOn' => 'string',
-      'trial' => 'bool',
       'claimed_id' => 'string',
-      'storage' => 'int'
+      'token' => 'string',
+      'storage' => 'int',
+      'photo' => 'string',
+      'active' => 'bool',
+      'trial' => 'bool',
+      'news_eanbled' => 'bool',
+      'alerts_eanbled' => 'bool',
+      'support_eanbled' => 'bool',
+      'support_email' => 'string',
+      'annotation_branded' => 'bool',
+      'viewer_branded' => 'bool',
+      'signedupOn' => 'string',
+      'signedinOn' => 'string',
+      'signin_count' => 'int',
+      'roles' => 'array[RoleInfo]',
+      'id' => 'float',
+      'guid' => 'string',
+      'primary_email' => 'string'
 
     );
 
-  public $signin_count; // int
-  public $signedupOn; // string
   public $nickname; // string
-  public $pkey; // string
-  public $lastname; // string
-  public $alerts_eanbled; // bool
   public $firstname; // string
-  public $news_eanbled; // bool
-  public $support_eanbled; // bool
-  public $photo; // array[int]
-  public $support_email; // string
-  public $guid; // string
-  public $id; // float
+  public $lastname; // string
+  public $pkey; // string
   public $pswd_salt; // string
-  public $token; // string
-  public $primary_email; // string
-  public $roles; // array[RoleInfo]
-  public $active; // bool
-  public $signedinOn; // string
-  public $trial; // bool
   public $claimed_id; // string
+  public $token; // string
   public $storage; // int
+  public $photo; // string
+  public $active; // bool
+  public $trial; // bool
+  public $news_eanbled; // bool
+  public $alerts_eanbled; // bool
+  public $support_eanbled; // bool
+  public $support_email; // string
+  public $annotation_branded; // bool
+  public $viewer_branded; // bool
+  public $signedupOn; // string
+  public $signedinOn; // string
+  public $signin_count; // int
+  public $roles; // array[RoleInfo]
+  public $id; // float
+  public $guid; // string
+  public $primary_email; // string
   }
 
