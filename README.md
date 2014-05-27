@@ -10,4 +10,4 @@ With GroupDocs Viewer plugin for Drupal CMS you can easily view PDF's, Word docu
 * [Embed DOC, DOCX, PDF Viewer in your Drupal CMS website] (https://drupal.org/project/groupdocs_viewer)
 * [See source code for GroupDocs Viewer plugin for Drupal CMS](https://github.com/groupdocs/drupal-groupdocs-viewer-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace).
